@@ -90,6 +90,14 @@ Here are some ideas to get you started:
 </p>
 </details>
 
+#
+#
+
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/ps-19/ps-19/blob/main/snake.svg)
+
+#
+#
+
+
 
 ![footer](https://github.com/ps-19/ps-19/blob/main/PNG/footer.png)
