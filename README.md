@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, <a target="_blank">
-    <img src="https://github.com/ps-19/ps-19/blob/main/GIF/Earth.gif" width="25px" style="max-width:100%;">
+    <img src="https://github.com/ps-19/ps-19/blob/master/GIF/Earth.gif" width="25px" style="max-width:100%;">
   </a> 𝚌𝚘𝚍𝚎𝚛𝚜! <a target="_blank">
-    <img src="https://github.com/ps-19/ps-19/blob/main/GIF/Hi.gif" width="40px" style="max-width:100%;">
+    <img src="https://github.com/ps-19/ps-19/blob/master/GIF/Hi.gif" width="40px" style="max-width:100%;">
   </a>
   
 </h1>
@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/ps-19/ps-19/blob/main/PNG/left.png" alt="">
+    <img height="150" width="175" src="https://github.com/ps-19/ps-19/blob/master/PNG/left.png" alt="">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps-19&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/ps-19/ps-19/blob/main/PNG/right.png">
+    <img height="150" width="175" src="https://github.com/ps-19/ps-19/blob/master/PNG/right.png">
   </a>
 </p>
 
@@ -100,4 +100,4 @@ Here are some ideas to get you started:
 
 
 
-![footer](https://github.com/ps-19/ps-19/blob/main/PNG/footer.png)
+![footer](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
