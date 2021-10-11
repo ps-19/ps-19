@@ -7,6 +7,8 @@
 Here are some ideas to get you started:
 -->
 
+**All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.**
+
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, <a target="_blank">
     <img src="https://github.com/ps-19/ps-19/blob/master/GIF/Earth.gif" width="25px" style="max-width:100%;">
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
   
 </h1>
 
-All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.
+**All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.**
 
 - 🔭 I’m currently working on **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🌱 I’m currently learning **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
@@ -90,7 +92,7 @@ All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.
 
 #
 #
-
+**All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.**
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/ps-19/ps-19/blob/main/game.svg)
 
 #
