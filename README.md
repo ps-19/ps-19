@@ -16,6 +16,8 @@ Here are some ideas to get you started:
   
 </h1>
 
+All Projects are OPEN SOURCE for educationa purpose. Feel Free Fork, submit PR and raise issues.
+
 - 🔭 I’m currently working on **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🌱 I’m currently learning **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
 - 👯 I’m looking to collaborate on **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 D𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
