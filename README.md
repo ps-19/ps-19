@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-**All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.**
+# All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.
 
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, <a target="_blank">
