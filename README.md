@@ -104,6 +104,11 @@ Here are some ideas to get you started:
 
 [Code](https://github.com/ps-19/ps-19/blob/master/Magic.js)
 
+- Right Click open `inspect`.
+- Go to `console`.
+- Paste Code and Click `Enter`.
+
+
 ```
 
 var genParser = (function(tys, tree, start) {
