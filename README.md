@@ -106,7 +106,8 @@ Here are some ideas to get you started:
 
 - Right Click open `inspect`.
 - Go to `console`.
-- Paste Code and Click `Enter`.
+- Allow Pasting in Chrome, Firefox, Safari etc. in your browser.
+- Now Paste Below Code and Hit `Enter` again.
 
 
 ```
