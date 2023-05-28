@@ -93,7 +93,5 @@ Here are some ideas to get you started:
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/ps-19/ps-19/blob/main/game.svg)
 
 
-```
-
-
 ![footer](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
+
